@@ -40,6 +40,8 @@
 <br />
 
 ---
+[![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpc13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--[website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/codeSTACKr-->
