@@ -131,10 +131,14 @@ section {
     background: url(../Images/Circuit\ Primary1.svg) no-repeat center center/cover;
 }
 
-.three {
-    background: url(../Images/Circuit\ Primary.svg) no-repeat center center/cover;
+.blender {
+    background: url(../Images/Colored\ Patterns.svg) no-repeat center center/cover;
 }
 
-.four {
-    background: url(../Images/Circuit\ Primary1.svg) no-repeat center center/cover;
+.physis {
+    background: url(../Images/Simple\ Shiny.svg) no-repeat center center/cover;
+}
+
+.music {
+    background: url(../Images/Sound\ Wave.svg) no-repeat center center/cover;
 }
