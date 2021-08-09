@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-<!--[<img align="left" alt="mjpc13.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Insta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mjpc13.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="Insta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -41,6 +41,6 @@
 [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpc13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--[website]: https://codeSTACKr.com
-[instagram]: https://instagram.com/codeSTACKr-->
+[website]: https://mjpc13.github.io/mjpc13/
+<!--[instagram]: https://instagram.com/codeSTACKr-->
 [linkedin]: www.linkedin.com/in/mario-cristovao
