@@ -1,5 +1,7 @@
 # Hi, It's a me Mario! 👋 <!-- insert website when completed-->
 
+![](Videos/its-me-mario.gif)
+
 - 🔭 I’m currently working on my Master Thesis
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything!
