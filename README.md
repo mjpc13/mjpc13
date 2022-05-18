@@ -64,7 +64,7 @@
 
 ---
 [![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjpc13&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjpc13&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjpc13&theme=dracula)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjpc13&layout=compact&theme=dracula&hide=javascript,html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://mjpc13.github.io/mjpc13/
