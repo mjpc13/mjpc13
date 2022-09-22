@@ -2,7 +2,7 @@
 
 ![](Videos/its-me-mario.gif)
 
-- 🔭 I’m currently working on my Master Thesis
+- 🔭 I’m currently working on my Master Dissertation
 - 🌱 I’m currently learning everything
 - 💬 Ask me about anything!
 - 📫 How to reach me: mjpc13@protonmail.com
